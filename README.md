@@ -21,4 +21,4 @@ The repository includes the following challenges:
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-ds-challenges.git
+   git clone https://github.com/spanand/python-ds-challenges.git
