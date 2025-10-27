@@ -14,8 +14,8 @@ The repository includes the following challenges:
 4. **Average Score Function** – Compute averages and identify top performers.
 5. **Top Grade Analysis** – Extract maximum values and associate additional data.
 6. **Grade Classification** – Categorize students into letter grades (A/B/C/D) and count occurrences.
-7. **Sales Insights** *(planned)* – Analyze sales data by region and compute totals/averages.
-8. **Data Visualization** *(planned)* – Visualize data using Matplotlib and Seaborn.
+7. **Sales Insights** – Analyze sales data by region and compute totals/averages.
+8. **Data Visualization** – Visualize data using Matplotlib and Seaborn.
 9. **Intro to Machine Learning** *(planned)* – Simple prediction models using scikit-learn.
 
 ## Setup
